@@ -1,5 +1,5 @@
 # Clip-Craze (Youtube)
-     # Key Features
+- # Key Features
 - High Order Components -Advideocard
 - SideBar 
 - For Search Bar 
