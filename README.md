@@ -9,8 +9,8 @@
 - cache the movie suggestion in redux store 
 - Comments Section
 - Live Chat Section:
-         - generate some random name and messages
-         - after some count one message gets deleted
-         - input user message to live chat and push it 
+    - generate some random name and messages
+    - after some count one message gets deleted
+    - input user message to live chat and push it 
 
 
